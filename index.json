@@ -1,0 +1,11 @@
+{
+  "org": "geopandas",
+  "repo": "community",
+  "versions": [
+    {
+      "commit": "3e38dc25cc36daf9e90a3dbf2f010807fdf84d44",
+      "tag": "",
+      "parsed_at": "2026-10-21T19:43:18.516452+00:00"
+    }
+  ]
+}
