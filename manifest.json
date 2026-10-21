@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1.0",
+  "org": "geopandas",
+  "repo": "community",
+  "versions": [
+    {
+      "commit": "3e38dc25cc36daf9e90a3dbf2f010807fdf84d44",
+      "parsed_at": "2026-10-21T19:41:12.257183+00:00",
+      "filetree": "filetree/3e38dc25cc36daf9e90a3dbf2f010807fdf84d44.nq.gz",
+      "blobs": [
+        "blob/2b6fd258f29a7797d6d132d0ce08ea52324e8110.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
